@@ -6,6 +6,10 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+[epub|type~="se:letter.dateline"]{
+	text-align: right;
+}
+
 [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
