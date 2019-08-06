@@ -57,12 +57,14 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2010107267</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Dickens novel of the French Revolution, told through the lens of single family.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			<p>LONG_DESCRIPTION</p>
+			<p>A doctor is released from the Bastille after being falsely imprisoned for almost eighteen years. A young woman discovers the father she’s never known is not dead but alive, if not entirely well. A young man is acquitted of being a traitor, due in part to the efforts of a rather selfish lout who is assisting the young man’s attorney. A man has a wine shop in Paris with a wife who knits at the bar. These disparate elements are tied together as only Dickens can, and in the process he tells the story of the French Revolution.</p>
+			<p><i>Charles Dickens was fascinated by Thomas Carlyle’s magnum opus <i>The French Revolution</i>; according to Dickens’ letters, he read it “500 times” and carried it with him everywhere while he was working on this novel. When he wrote to Carlyle asking him for books to read on background, Carlyle sent him two cartloads full. Dickens mimicked Carlyle’s style, his chronology, and his overall characterization of the revolution; although <i>A Tale of Two Cities</i> is fiction, the historical events described are largely accurate, sometimes exactly so. Even so, Dickens made his name and reputation on telling stories full of characters one could be invested in, care about, and despise, and this novel has all of those and more. It also, in its first and last lines, has two of the most famous lines in literature. With the possible exception of <i>A Christmas Carol</i>, it is his most popular novel, and according to many, his best.
 		]]></meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/98</dc:source>
+		<meta property="se:production-notes">Author's preface was added from the scans, it is not in the transcription.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities</meta>
@@ -73,10 +75,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78087607</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Félix-Joseph Barrias</dc:contributor>
+		<meta property="file-as" refines="#artist">Barrias, Félix-Joseph</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Félix-Joseph_Barrias</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2006135803</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
