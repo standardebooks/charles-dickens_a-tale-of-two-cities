@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-08-14T18:12:49Z</dc:date>
+		<meta property="dcterms:modified">2019-08-14T18:12:49Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -60,14 +60,14 @@
 		<dc:description id="description">A family is reunited, added to, and then threatened to be torn apart by events arising from the French Revolution.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A doctor is released from the Bastille after being falsely imprisoned for almost eighteen years. A young woman discovers the father she’s never known is not dead but alive, if not entirely well. A young man is acquitted of being a traitor, due in part to the efforts of a rather selfish lout who is assisting the young man’s attorney. A man has a wine shop in Paris with a wife who knits at the bar. These disparate elements are tied together as only Dickens can, and in the process he tells the story of the French Revolution.&lt;/p&gt;
-			&lt;p&gt;Charles Dickens was fascinated by Thomas Carlyle’s magnum opus &lt;i&gt;The French Revolution&lt;/i&gt;; according to Dickens’ letters, he read it “500 times” and carried it with him everywhere while he was working on this novel. When he wrote to Carlyle asking him for books to read on background, Carlyle sent him two cartloads full. Dickens mimicked Carlyle’s style, his chronology, and his overall characterization of the revolution; although &lt;i&gt;A Tale of Two Cities&lt;/i&gt; is fiction, the historical events described are largely accurate, sometimes exactly so. Even so, Dickens made his name and reputation on telling stories full of characters one could be invested in, care about, and despise, and this novel has all of those and more. It also, in its first and last lines, has two of the most famous lines in literature. With the possible exception of &lt;i&gt;A Christmas Carol&lt;/i&gt;, it is his most popular novel, and according to many, his best.&lt;/p&gt;
+			&lt;p&gt;Charles Dickens was fascinated by Thomas Carlyle’s magnum opus &lt;i&gt;The French Revolution&lt;/i&gt;; according to Dickens’ letters, he read it “500 times” and carried it with him everywhere while he was working on this novel. When he wrote to Carlyle asking him for books to read on background, Carlyle sent him two cartloads full. Dickens mimicked Carlyle’s style, his chronology, and his overall characterization of the revolution; although &lt;i&gt;A Tale of Two Cities&lt;/i&gt; is fiction, the historical events described are largely accurate, sometimes exactly so. Even so, Dickens made his name and reputation on telling stories full of characters one could be invested in, care about, and despise, and this novel has all of those and more. It also, in its first and last lines, has two of the most famous lines in literature. With the possible exception of &lt;a href="https://standardebooks.org/ebooks/charles-dickens/a-christmas-carol"&gt;&lt;i&gt;A Christmas Carol&lt;/i&gt;&lt;/a&gt;, it is his most popular novel, and according to many, his best.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/98</dc:source>
 		<dc:source>https://books.google.com/books?id=UXkPAAAAQAAJ</dc:source>
 		<meta property="se:production-notes">Author's preface was added from the scans, it is not in the transcription.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">137383</meta>
+		<meta property="se:reading-ease.flesch">69.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_a-tale-of-two-cities</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
@@ -96,6 +96,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
