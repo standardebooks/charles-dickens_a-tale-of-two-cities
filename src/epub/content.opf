@@ -66,7 +66,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/98</dc:source>
 		<dc:source>https://books.google.com/books?id=UXkPAAAAQAAJ</dc:source>
 		<meta property="se:production-notes">Author's preface was added from the scans, it is not in the transcription.</meta>
-		<meta property="se:word-count">137382</meta>
+		<meta property="se:word-count">137381</meta>
 		<meta property="se:reading-ease.flesch">69.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_a-tale-of-two-cities</meta>
