@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A Tale of Two Cities</dc:title>
 		<meta property="file-as" refines="#title">Tale of Two Cities, A</meta>
-		<meta property="dcterms:alternate" refines="#title">A Tale of 2 Cities</meta>
+		<meta property="dcterms:alternative" refines="#title">A Tale of 2 Cities</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">France -- History -- Revolution, 1789-1799 -- Fiction</dc:subject>
 		<dc:subject id="subject-3">London (England) -- History -- 18th century -- Fiction</dc:subject>
